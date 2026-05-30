@@ -1,0 +1,6 @@
+{
+  "name": "AI Tourist Spot Planner",
+  "description": "A smart travel assistant that generates highly detailed itineraries and custom budget breakdowns for your dream destinations using Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
